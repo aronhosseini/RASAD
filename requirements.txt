@@ -1,0 +1,9 @@
+requests>=2.31
+pandas>=2.1
+openpyxl>=3.1
+xlrd>=2.0.1
+lxml>=5.0
+matplotlib>=3.8
+arabic-reshaper==3.0.0
+python-bidi==0.4.2
+PySocks>=1.7.1
